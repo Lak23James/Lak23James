@@ -1,4 +1,7 @@
 ## Hi there 👋
+<a href="https://github.com/Lak23James">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lak23James&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3382FF&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Lak23James+👋;Rising+Sophomore+@+IIT+BHU;Building+High-Performance+C+++Engines;Exploring+the+Depths+of+AI+%26+Machine+Learning" alt="Typing SVG" />
@@ -10,7 +13,7 @@ I am a 2nd-year undergraduate at **IIT BHU** driven by a passion for High-Perfor
 
 <p align="center">
   <a href="https://github.com/Lak23James">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lak23James&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Lak23James&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />username=Lak23James&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
 </p>
 
@@ -42,7 +45,9 @@ I am a 2nd-year undergraduate at **IIT BHU** driven by a passion for High-Perfor
 ---
 
 ### 🏆 Hackathons & Competitions
-
+<a href="https://github.com/Lak23James">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lak23James&theme=tokyonight&no-frame=true&no-bg=true" alt="Trophies" />
+</a>
 I thrive in high-pressure building environments and have participated in over **10+ hackathons** globally. 
 
 | Event | Organizer | Result / Standing |
