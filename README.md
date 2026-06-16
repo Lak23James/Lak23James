@@ -53,9 +53,9 @@ I thrive in high-pressure building environments and have participated in over **
 | Event | Organizer | Result / Standing |
 | :--- | :--- | :--- |
 | **MLware 2026** | Technex (IIT BHU) | 🥉 **3rd Place Overall** |
-| **ISRO BAH** | Fipkart Gridlock | Participant |
+| *Fipkart Gridlock2.0** | Fipkart| Participant |
 | **ISRO BAH** | ISRO | Participant |
-
+|**NJACK X JILO | IIT PATNA| Honourable mentions|
 ---
 
 <p align="center">
