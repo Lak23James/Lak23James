@@ -1,14 +1,32 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61cb5d2563acdc8b6b2/bottom_header.svg" alt="Animated Banner" width="100%" />
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lak23James&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Lak23James</h1>
+
 - 🔭 I’m currently working on **IRSO BAH**
-
 - 👯 I’m looking to collaborate on [Chess engine](https://github.com/Lak23James/ChessEngine)
-
 - 📫 How to reach me **lakshyakohli23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@lak23james" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lak23james" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/221005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="221005" height="30" width="40" /></a>
+</p>
+
+## Overview
+<p align="center">
+  <a href="https://github.com/Lak23James">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lak23James&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3382FF&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Lak23James+👋;Rising+Sophomore+@+IIT+BHU;Building+High-Performance+C+++Engines;Exploring+the+Depths+of+AI+%26+Machine+Learning" alt="Typing SVG" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,7 +39,8 @@ I am a 2nd-year undergraduate at **IIT BHU** driven by a passion for High-Perfor
 
 <p align="center">
   <a href="https://github.com/Lak23James">
-   <img src="https://github-readme-stats.vercel.app/api?username=Lak23James&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />username=Lak23James&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Lak23James&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lak23James&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
@@ -61,9 +80,27 @@ I thrive in high-pressure building environments and have participated in over **
 | Event | Organizer | Result / Standing |
 | :--- | :--- | :--- |
 | **MLware 2026** | Technex (IIT BHU) | 🥉 **3rd Place Overall** |
-| *Fipkart Gridlock2.0** | Fipkart| Participant |
+| **Flipkart Gridlock 2.0** | Flipkart | Participant |
 | **ISRO BAH** | ISRO | Participant |
-|**NJACK X JILO | IIT PATNA| Honourable mentions|
+| **NJACK X JILO** | IIT PATNA | Honourable mentions |
+---
+
+### 🐍 Contribution Activity
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lak23James/Lak23James/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lak23James/Lak23James/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lak23James/Lak23James/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+### 🧊 3D Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lak23James/Lak23James/main/profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" />
+</p>
+
 ---
 
 <p align="center">
