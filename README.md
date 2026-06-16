@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61cb5d2563acdc8b6b2/bottom_header.svg" alt="Animated Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Lak23James!&fontSize=50&animation=fadeIn&fontAlignY=38" alt="Animated Banner" width="100%" />
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Lak23James&color=blueviolet&style=for-the-badge" alt="Profile Views" />
@@ -25,7 +25,7 @@
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3382FF&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Lak23James+👋;Rising+Sophomore+@+IIT+BHU;Building+High-Performance+C+++Engines;Exploring+the+Depths+of+AI+%26+Machine+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3382FF&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Lak23James+👋;Rising+Sophomore+@+IIT+BHU;Building+High-Performance+C+++Engines;Exploring+the+Depths+of+AI+%26+Machine+Learning" alt="Typing SVG" />
   </a>
 </p>
 
