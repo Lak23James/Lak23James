@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Lak23James</h1>
 
-- 🔭 I’m currently working on **IRSO BAH**
+- 🔭 I’m currently working on **MatGPT**
 - 👯 I’m looking to collaborate on [Chess engine](https://github.com/Lak23James/ChessEngine)
 - 📫 How to reach me **lakshyakohli23@gmail.com**
 
