@@ -7,15 +7,8 @@
 
 <h1 align="center">Hi 👋, I'm Lak23James</h1>
 
-- 🔭 I’m currently working on **MatGPT**
-- 👯 I’m looking to collaborate on [Chess engine](https://github.com/Lak23James/ChessEngine)
-- 📫 How to reach me **lakshyakohli23@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@lak23james" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lak23james" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/221005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="221005" height="30" width="40" /></a>
-</p>
+
 
 ## Overview
 <p align="center">
